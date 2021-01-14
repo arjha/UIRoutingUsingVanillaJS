@@ -1,0 +1,4 @@
+.router-outlet{
+    min-height: 200px;
+    background: rgb(157, 181, 184);
+}
